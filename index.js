@@ -22,3 +22,6 @@ shell.rm("-rf", "react-dashboard");
 
 shell.cd(`${dirName}`);
 shell.exec("npm i");
+
+shell.echo(`cd ${dirName}`);
+shell.echo(`npm start`);

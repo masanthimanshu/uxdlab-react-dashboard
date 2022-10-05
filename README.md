@@ -2,11 +2,6 @@
 
 This is a simple utility to generate boilerplate for **App Dashboards** using React Firebase and Material-UI.
 
-visit the deployed link :- https://uxd-react-dashboard.pages.dev
-
-Username - admin@gmail.com  
-Password - admin@1234
-
 ## Installation
 
 Install this with npm
