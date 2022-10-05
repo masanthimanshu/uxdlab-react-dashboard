@@ -1,0 +1,14 @@
+{
+  "name": "uxdlab-react-dashboard",
+  "version": "1.0.0",
+  "license": "ISC",
+  "keywords": [
+    "React Firebase Material-UI Dashboard"
+  ],
+  "bin": {
+    "uxdlab-react-dashboard": "./index.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
